@@ -1,4 +1,4 @@
-# form_pembagian
-Simple Form Pembagian Flutter
+# Simple Form Pembagian Flutter
 
-![mobile (2)](https://user-images.githubusercontent.com/109071310/199653530-fef2b728-8272-4c2d-ab68-41f8ecc8c2cd.png)
+![mobile (19)](https://user-images.githubusercontent.com/109071310/201582810-86dd2ee1-31d4-4ddb-a96d-2b96025b09f7.png)
+
